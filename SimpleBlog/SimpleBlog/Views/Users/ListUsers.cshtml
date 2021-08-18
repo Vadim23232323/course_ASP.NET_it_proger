@@ -1,0 +1,45 @@
+﻿@model IEnumerable<SimpleBlog.Models.UsersModel>
+
+@{
+    ViewBag.Title = "List Users";
+}
+
+<h2>ViewBag.Title</h2>
+
+<p>
+    @Html.ActionLink("Create New user", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>FirstName</th>
+        <th>Age</th>
+        <th>isHasCar</th>
+        <th></th>
+
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(userItem => item.name);
+    </td>
+    <td>
+        @Html.DisplayFor(userItem => item.surname);
+    </td>
+    <td>
+        @Html.DisplayFor(userItem => item.age);
+    </td>
+    <td>
+        @Html.DisplayFor(userItem => item.isHasCar);
+    </td>
+
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+        @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+    </td>
+</tr>
+}
+
+</table>
