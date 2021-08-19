@@ -1,0 +1,13 @@
+D:\course_ASP.NET_it_proger\Blog\DataLibrary\bin\Debug\DataLibrary.dll
+D:\course_ASP.NET_it_proger\Blog\DataLibrary\bin\Debug\DataLibrary.pdb
+D:\course_ASP.NET_it_proger\Blog\DataLibrary\bin\Debug\Dapper.dll
+D:\course_ASP.NET_it_proger\Blog\DataLibrary\bin\Debug\Drapper.dll
+D:\course_ASP.NET_it_proger\Blog\DataLibrary\bin\Debug\Drapper.Validation.dll
+D:\course_ASP.NET_it_proger\Blog\DataLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\course_ASP.NET_it_proger\Blog\DataLibrary\bin\Debug\Dapper.xml
+D:\course_ASP.NET_it_proger\Blog\DataLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\course_ASP.NET_it_proger\Blog\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+D:\course_ASP.NET_it_proger\Blog\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+D:\course_ASP.NET_it_proger\Blog\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+D:\course_ASP.NET_it_proger\Blog\DataLibrary\obj\Debug\DataLibrary.dll
+D:\course_ASP.NET_it_proger\Blog\DataLibrary\obj\Debug\DataLibrary.pdb
